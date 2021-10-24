@@ -2,9 +2,8 @@
 # Predicting Average Yearly Earning on Youtube 
 ######  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _By: Nadia Alghamdi & Manal Alqahtani_    
 
-&nbsp;                    
-&nbsp;            
-# Introduction
+           
+### Introduction
 Our goul is to see what might affect Average yearly earning for the top 1000 youtube channels. 
 
 
