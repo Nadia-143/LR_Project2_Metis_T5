@@ -32,6 +32,4 @@ First website which called: Popsonner, we scrapped the following features: Chann
 ## Conclusion and summary 
 Eventhough polynomial showed low MSE, R squared is high to level that we reach overfitting. Thus, linear regression isn't the appropriate model to meet our goal!
 
-..
-
 
