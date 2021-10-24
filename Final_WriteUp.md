@@ -1,4 +1,4 @@
-# Predicting top 1000 Youtube Channels Yearly Earning
+# Predicting top 1000 Youtube Channels Average Yearly Earning
 
 ## Abstract 
 
